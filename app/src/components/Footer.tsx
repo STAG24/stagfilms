@@ -12,7 +12,7 @@ export default function Footer() {
         </span>
       </div>
       <div className="font-mono text-[0.58rem] tracking-[0.12em] text-gray-700">
-        © 2026 STAGFILMS · Yogyakarta · All Rights Reserved
+        © 2026 STAGFILMS · Bantul · All Rights Reserved
       </div>
     </footer>
   )
